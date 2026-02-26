@@ -1,0 +1,4 @@
+(library
+ (name integrator_core)
+ (public_name integrator_core)
+ (libraries yojson unix))

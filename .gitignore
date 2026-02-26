@@ -1,0 +1,18 @@
+# OCaml / dune
+_build/
+*.install
+*.merlin
+*.cm*
+*.o
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# VS Code
+.vscode/
+.vscode-server/
+
+# OS
+.DS_Store

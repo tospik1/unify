@@ -1,0 +1,7 @@
+(library
+ (name integrator_core_domain)
+ (public_name integrator_core.domain)
+ (libraries
+  integrator_core
+  unix
+ ))

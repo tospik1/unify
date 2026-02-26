@@ -1,0 +1,5 @@
+(library
+ (name integrator_core_export)
+ (libraries
+  integrator_core
+  integrator_core_domain))

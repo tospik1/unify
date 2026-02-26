@@ -1,0 +1,7 @@
+(executable
+ (name integrator_cli)
+ (public_name integrator)
+ (libraries
+  integrator_core
+  integrator_core_domain
+  integrator_core_export))
